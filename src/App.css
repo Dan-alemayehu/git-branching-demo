@@ -8,6 +8,7 @@
 h1 {
   font-size: 36px;
   margin-bottom: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 ul {
@@ -27,13 +28,15 @@ li {
 .name {
   font-weight: bold;
   font-size: 24px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(59, 58, 58);
 }
 
 .price {
   font-size: 20px;
-  color: #999;
+  color: #dc0202;
 }
 
 body{
-  background-color: aquamarine;
+  background-color: #44c0fe;
 }
